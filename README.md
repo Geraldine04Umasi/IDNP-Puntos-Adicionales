@@ -4,9 +4,8 @@
 
 Link directo: https://github.com/Geraldine04Umasi/IDNP-Puntos-Adicionales/blob/main/app/src/main/java/com/example/listas/MainActivity.kt
 
-# IDNP-Puntos-Adicionales
+# Explicación 
 
-Explicación 
 1. Renderizado diferido (lazy composition)
 
 En Jetpack Compose, el contenido de cada pestaña (Tab) solo se compone cuando se vuelve visible.
