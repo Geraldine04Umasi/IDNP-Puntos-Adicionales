@@ -2,6 +2,8 @@
 - Condorios Yllapuma Jorge Enrique
 - Umasi Coaguila Geraldine Marjorie
 
+Link directo: https://github.com/Geraldine04Umasi/IDNP-Puntos-Adicionales/blob/main/app/src/main/java/com/example/listas/MainActivity.kt
+
 # IDNP-Puntos-Adicionales
 
 Explicación 
